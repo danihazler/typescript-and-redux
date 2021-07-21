@@ -9,6 +9,10 @@
   color: white;
 }
 
+.App h1 {
+  color: inherit;
+}
+
 .buttons {
   display: flex;
   justify-content: space-between;
